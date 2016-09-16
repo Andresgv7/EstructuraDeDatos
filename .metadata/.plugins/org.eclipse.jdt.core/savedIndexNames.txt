@@ -11,7 +11,6 @@ INDEX VERSION 1.126+C:\Users\cisco\Desktop\EstructuraDeDatos\.metadata\.plugins\
 2474304018.index
 3449116704.index
 882139543.index
-2298930795.index
 1492968368.index
 249459504.index
 919737581.index
